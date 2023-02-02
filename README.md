@@ -11,4 +11,4 @@ I used 2 types of Bar graphs, the first shows the dirstibution of for isntance c
 
 my line graphs worked really well. I was really happy with them and they demonstrated the correlations i wanted. 
 
-I enjoyed working with Richard and this topic, hwoever richard and I bot hagreed that we would like to work on another topic next time. 
+I enjoyed working with Richard and this topic, hwoever richard and I both agreed that we would like to work on another topic next time. 
