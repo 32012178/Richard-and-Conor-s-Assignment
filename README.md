@@ -1,4 +1,7 @@
 # Richard-and-Conor-s-Assignment
+Q. Did Covid vaccines affect covid case numbers and deaths in 4 different countries?
+
+
 
 Conor's Analysis 
 
