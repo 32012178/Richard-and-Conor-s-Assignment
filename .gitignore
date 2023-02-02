@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+No API key
+
+only csv's 
+
+link to Owid data, it was too big to import 
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report
